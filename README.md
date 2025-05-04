@@ -15,3 +15,4 @@ Name | Access | Description |
 [Annotation Controller](https://github.com/SudoMagicCode/td-annotation-controller) | 🌎 Public | A component for manipulating the Annotation COMP
 [Cloud Palette](https://github.com/SudoMagicCode/cloudPalette) | 🌎 Public | A component fetching cloud stored tox files
 [Projector Tools](https://github.com/SudoMagicCode/td-projector-tools) | 🌎 Public | Projector Tools for TouchDesigner
+[shaderLib](https://github.com/SudoMagicCode/td-shader-lib) | 🌎 Public | A collection of shader libraries collected for easy use in TouchDesigner
