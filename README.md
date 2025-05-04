@@ -13,3 +13,5 @@ Name | Access | Description |
 [Annotation Controller](https://github.com/SudoMagicCode/td-annotation-controller) | 🌎 Public | A component for manipulating the Annotation COMP
 [TD Performance Monitor](https://github.com/SudoMagicCode/td-performance-monitor) | 🔒 Private | A component for monitoring TouchDesigner app performance
 [TD Floating Debug](https://github.com/SudoMagicCode/td-floating-debug) | 🔒 Private | A utility component for SudoMagic's TD Scaffold
+[Cloud Palette](https://github.com/SudoMagicCode/cloudPalette) | 🌎 Public | A component fetching cloud stored tox files
+[Projector Tools](https://github.com/SudoMagicCode/td-projector-tools) | 🌎 Public | Projector Tools for TouchDesigner
