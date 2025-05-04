@@ -6,12 +6,12 @@ SudoMagic has developed it's own TouchDesigner package manager that pulls from a
 Name | Access | Description |
 --- | --- | --- |
 [TouchDesigner Packager COMP](https://github.com/SudoMagicCode/td-packager-comp) | 🔒 Private | A component for automating the package building process
+[TD Performance Monitor](https://github.com/SudoMagicCode/td-performance-monitor) | 🔒 Private | A component for monitoring TouchDesigner app performance
+[TD Floating Debug](https://github.com/SudoMagicCode/td-floating-debug) | 🔒 Private | A utility component for SudoMagic's TD Scaffold
 [Hue Control](https://github.com/SudoMagicCode/td-hueControl) | 🌎 Public | A component for controller HUE lights from TouchDesigner
 [COMP Icon](https://github.com/SudoMagicCode/td-comp-icon) | 🌎 Public | A component for for creating component icons
 [TD TOX Saver](https://github.com/SudoMagicCode/TD-TOX-Saver) | 🌎 Public | A component for exernalizing TOX files
 [sudoSignals TD Plugin](https://github.com/SudoMagicCode/sudoSignals_td_plugin) | 🌎 Public | A component for integrating with sudoSignals
 [Annotation Controller](https://github.com/SudoMagicCode/td-annotation-controller) | 🌎 Public | A component for manipulating the Annotation COMP
-[TD Performance Monitor](https://github.com/SudoMagicCode/td-performance-monitor) | 🔒 Private | A component for monitoring TouchDesigner app performance
-[TD Floating Debug](https://github.com/SudoMagicCode/td-floating-debug) | 🔒 Private | A utility component for SudoMagic's TD Scaffold
 [Cloud Palette](https://github.com/SudoMagicCode/cloudPalette) | 🌎 Public | A component fetching cloud stored tox files
 [Projector Tools](https://github.com/SudoMagicCode/td-projector-tools) | 🌎 Public | Projector Tools for TouchDesigner
