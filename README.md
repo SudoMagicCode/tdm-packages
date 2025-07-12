@@ -13,6 +13,7 @@ Name | Access | Description |
 [TD TOX Saver](https://github.com/SudoMagicCode/TD-TOX-Saver) | 🌎 Public | A component for exernalizing TOX files
 [sudoSignals TD Plugin](https://github.com/SudoMagicCode/sudoSignals_td_plugin) | 🌎 Public | A component for integrating with sudoSignals
 [Annotation Controller](https://github.com/SudoMagicCode/td-annotation-controller) | 🌎 Public | A component for manipulating the Annotation COMP
+[Annotation Formatter](https://github.com/SudoMagicCode/td-annotation-formatter) | 🌎 Public | Basic md style formatting for the Annotation COMP
 [Cloud Palette](https://github.com/SudoMagicCode/td-cloud-palette) | 🌎 Public | A component fetching cloud stored tox files
 [Projector Tools](https://github.com/SudoMagicCode/td-projector-tools) | 🌎 Public | Projector Tools for TouchDesigner
 [shaderLib](https://github.com/SudoMagicCode/td-shader-lib) | 🌎 Public | A collection of shader libraries collected for easy use in TouchDesigner
