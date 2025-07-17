@@ -16,4 +16,5 @@ Name | Access | Description |
 [Annotation Formatter](https://github.com/SudoMagicCode/td-annotation-formatter) | 🌎 Public | Basic md style formatting for the Annotation COMP
 [Cloud Palette](https://github.com/SudoMagicCode/td-cloud-palette) | 🌎 Public | A component fetching cloud stored tox files
 [Projector Tools](https://github.com/SudoMagicCode/td-projector-tools) | 🌎 Public | Projector Tools for TouchDesigner
+[Internet Check](https://github.com/SudoMagicCode/td-internet-check) | 🌎 Public | Checks for a connected status to the internet
 [shaderLib](https://github.com/SudoMagicCode/td-shader-lib) | 🌎 Public | A collection of shader libraries collected for easy use in TouchDesigner
