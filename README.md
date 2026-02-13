@@ -8,6 +8,7 @@ Name | Access | Description |
 [TouchDesigner Packager COMP](https://github.com/SudoMagicCode/td-packager-comp) | 🔒 Private | A component for automating the package building process
 [TD Performance Monitor](https://github.com/SudoMagicCode/td-performance-monitor) | 🔒 Private | A component for monitoring TouchDesigner app performance
 [TD Floating Debug](https://github.com/SudoMagicCode/td-floating-debug) | 🔒 Private | A utility component for SudoMagic's TD Scaffold
+[TD Prism](https://github.com/SudoMagicCode/td-prism) | 🌎 Public | HEX code color palettes generated from prism.sudo.codes
 [Hue Control](https://github.com/SudoMagicCode/td-hueControl) | 🌎 Public | A component for controller HUE lights from TouchDesigner
 [COMP Icon](https://github.com/SudoMagicCode/td-comp-icon) | 🌎 Public | A component for for creating component icons
 [TD TOX Saver](https://github.com/SudoMagicCode/TD-TOX-Saver) | 🌎 Public | A component for exernalizing TOX files
